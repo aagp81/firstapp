@@ -271,6 +271,6 @@ catch(err) {
 });
 
 if (!runningTests) {
-  require("firstapp/app")["default"].create({"name":"firstapp","version":"0.0.0+7de6efdc"});
+  require("firstapp/app")["default"].create({"name":"firstapp","version":"0.0.0+2b5f6ba6"});
 }
 //# sourceMappingURL=firstapp.map
